@@ -1,5 +1,12 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joelsantos1/"><i>Joel Santos</i></a> 😃️</h1>
+  
+  <div align="center">
+
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
+
+</div>
+  
   <p align="center">Estudo Desenvolvimento Web e Tenho um grande sonho de me tornar um Programador, e poder criar algo que possa ajudar todas as pessoas.
   </a><br>
   <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo!😉️</h2>
