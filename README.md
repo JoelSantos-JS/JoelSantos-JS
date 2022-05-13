@@ -15,7 +15,7 @@
 
 
                                               
-<p align="center">🚀 Estudando: JavaScript, HTML , CSS , Reactjs e TypeScript CSS.</h2>                                              
+<p align="center">🚀 Estudando: JavaScript, HTML , CSS , Reactjs e TypeScript.</h2>                                              
 
 <!-- <h1 align="center"> 
   Trybe
