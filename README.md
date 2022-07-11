@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/joelsantos1/"><i>Joel Santos</i></a> 😃️</h1>
+  <h1 align="center">Hey, how's it going? I am <a href="https://www.linkedin.com/in/joelsantos1/"><i>Joel Santos</i></a> 😃️</h1>
   
   <div align="center">
 
@@ -7,16 +7,18 @@
 
 </div>
   
-  <p align="center">Estudo Desenvolvimento Web e Tenho um grande sonho de me tornar um Programador, e poder criar algo que possa ajudar todas as pessoas.
+  <p align="center">I study Web Development and I have a big dream of becoming a Programmer, and being able to create something that can help everyone.
   </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo!😉️</h2>
+  <p align="center">Already sign up there and come have dinner with me, your contribution will be very welcome, thank you!😉️</h2>
  
 </div>
 
 
                                               
-<p align="center">🚀 Estudando: JavaScript, HTML , CSS , Reactjs e TypeScript.</h2>                                              
-
+<p align="center">🚀 Learning: JavaScript, Reactjs and TypeScript.</h2>                                              
+    
+    
+   <p align="center"> 🚀It is more productive to live with the weight of the search, than with the emptiness of ignorance.  </p>   
 <!-- <h1 align="center"> 
   Trybe
 </h1>
