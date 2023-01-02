@@ -15,7 +15,7 @@
 
 
                                               
-<p align="center">🚀 Learning: JavaScript, Reactjs ,TypeScript and GO.</h2>                                              
+<p align="center">🚀 Learning: JavaScript, Reactjs ,TypeScript and PHP.</h2>                                              
     
     
    <p align="center"> 🚀It is more productive to live with the weight of the search, than with the emptiness of ignorance.  </p>   
