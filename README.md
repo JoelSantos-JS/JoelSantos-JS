@@ -7,7 +7,7 @@
 
 </div>
   
-  <p align="center">I study Web Development and I have a big dream of becoming a Programmer, and being able to create something that can help everyone.
+  <p align="center">Always learning about Java and spring, I hope able to create something that can help everyone.
   </a><br>
   <p align="center">Already sign up there and come have dinner with me, your contribution will be very welcome, thank you!😉️</h2>
  
